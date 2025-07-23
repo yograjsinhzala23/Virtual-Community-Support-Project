@@ -1,0 +1,32 @@
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
+D:\back\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+D:\back\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+D:\back\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\back\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+D:\back\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+D:\back\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+D:\back\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\back\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+D:\back\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+D:\back\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+D:\back\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+D:\back\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+D:\back\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+D:\back\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+D:\back\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
+D:\back\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.runtimeconfig.json
+D:\back\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.genruntimeconfig.cache

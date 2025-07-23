@@ -1,0 +1,28 @@
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.deps.json
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.runtimeconfig.json
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.dll
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.pdb
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfo.cs
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.dll
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Entities\obj\Debug\net8.0\refint\Mission.Entities.dll
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.genruntimeconfig.cache
+A:\Virtual Community Support (TatvaSoft)\Day-14\Final Code Mission\Mission\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll
+D:\back\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.deps.json
+D:\back\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.runtimeconfig.json
+D:\back\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.dll
+D:\back\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.pdb
+D:\back\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+D:\back\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\back\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+D:\back\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfo.cs
+D:\back\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+D:\back\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.dll
+D:\back\Mission\Mission.Entities\obj\Debug\net8.0\refint\Mission.Entities.dll
+D:\back\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
+D:\back\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.genruntimeconfig.cache
+D:\back\Mission\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll

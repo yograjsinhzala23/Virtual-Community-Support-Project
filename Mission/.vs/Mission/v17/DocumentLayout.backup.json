@@ -1,0 +1,989 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\back\\Mission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Entities\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Services\\Services\\CommonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Services\\Services\\CommonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Repositories\\Repositories\\CommonRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Repositories\\Repositories\\CommonRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission\\Controllers\\CommonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission\\Controllers\\CommonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Entities\\Context\\MissionDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Context\\MissionDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Repositories\\IRepositories\\ICommonRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Repositories\\IRepositories\\ICommonRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Services\\Services\\MissionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Services\\Services\\MissionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Services\\IServices\\ICommonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Services\\IServices\\ICommonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Repositories\\Repositories\\MissionRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Repositories\\Repositories\\MissionRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Entities\\Entities\\MissionSkill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Entities\\MissionSkill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Entities\\Entities\\MissionApplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Entities\\MissionApplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission\\Controllers\\MissionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission\\Controllers\\MissionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Repositories\\IRepositories\\IMissionRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Repositories\\IRepositories\\IMissionRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Services\\IServices\\IMissionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Services\\IServices\\IMissionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Services\\Services\\AdminUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Services\\Services\\AdminUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Entities\\Entities\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Entities\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Entities\\Entities\\UserSkill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Entities\\UserSkill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Entities\\Entities\\Missions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Entities\\Missions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Entities\\Migrations\\MissionDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Migrations\\MissionDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Repositories\\Repositories\\AdminUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Repositories\\Repositories\\AdminUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Services\\Services\\LoginService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Services\\Services\\LoginService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Services\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Services\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Entities\\Models\\MissionThemeViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Models\\MissionThemeViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Entities\\Models\\MissionRequestViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Models\\MissionRequestViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Repositories\\IRepositories\\IAdminUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Repositories\\IRepositories\\IAdminUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Entities\\Models\\MissionSkillResponseModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Models\\MissionSkillResponseModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Entities\\Models\\LoginUserResponseModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Models\\LoginUserResponseModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Services\\Services\\MissionSkillService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Services\\Services\\MissionSkillService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Entities\\Models\\LoginUserRequestModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Models\\LoginUserRequestModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Entities\\Models\\AddMissionSkillRequestModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Models\\AddMissionSkillRequestModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Repositories\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Repositories\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission\\Controllers\\MissionSkillController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission\\Controllers\\MissionSkillController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Repositories\\IRepositories\\IMissionSkillRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Repositories\\IRepositories\\IMissionSkillRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Repositories\\Repositories\\MissionSkillRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Repositories\\Repositories\\MissionSkillRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Services\\IServices\\IMissionSkillService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Services\\IServices\\IMissionSkillService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Services\\Mission.Services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Services\\Mission.Services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Repositories\\Mission.Repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Repositories\\Mission.Repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Entities\\Mission.Entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Mission.Entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission\\Mission.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission\\Mission.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Entities\\Entities\\Country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Entities\\Country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Entities\\Models\\MissionApplicationResponseModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Models\\MissionApplicationResponseModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Entities\\Entities\\City.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Entities\\City.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Entities\\Models\\UserRequestModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Models\\UserRequestModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Entities\\Models\\ApplyMissionRequestModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Models\\ApplyMissionRequestModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Repositories\\Repositories\\LoginRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Repositories\\Repositories\\LoginRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Repositories\\Helpers\\UploadFile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Repositories\\Helpers\\UploadFile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Repositories\\IRepositories\\ILoginRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Repositories\\IRepositories\\ILoginRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Services\\IServices\\ILoginService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Services\\IServices\\ILoginService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission\\Controllers\\ClientMissionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission\\Controllers\\ClientMissionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Entities\\Models\\UserResponseModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Models\\UserResponseModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Entities\\Migrations\\20250610062549_createnewMissionApplicationEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Migrations\\20250610062549_createnewMissionApplicationEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission.Entities\\Models\\MissionDetailResponseModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Models\\MissionDetailResponseModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\back\\Mission\\Mission\\Controllers\\MissionThemeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission\\Controllers\\MissionThemeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommonService.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Services\\Services\\CommonService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\Services\\CommonService.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Services\\Services\\CommonService.cs",
+              "RelativeToolTip": "Mission.Services\\Services\\CommonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:42:03.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommonRepository.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Repositories\\Repositories\\CommonRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Repositories\\CommonRepository.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Repositories\\Repositories\\CommonRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\Repositories\\CommonRepository.cs",
+              "ViewState": "AgIAAEcAAABAmZmZmZkjwGcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T04:24:17.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommonController.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission\\Controllers\\CommonController.cs",
+              "RelativeDocumentMoniker": "Mission\\Controllers\\CommonController.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission\\Controllers\\CommonController.cs",
+              "RelativeToolTip": "Mission\\Controllers\\CommonController.cs",
+              "ViewState": "AgIAAA4AAAAA+v////8YwNsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:48:57.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MissionDbContext.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Entities\\Context\\MissionDbContext.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Context\\MissionDbContext.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Entities\\Context\\MissionDbContext.cs",
+              "RelativeToolTip": "Mission.Entities\\Context\\MissionDbContext.cs",
+              "ViewState": "AgIAABQAAAAAMzMzMzMDwB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T06:06:11.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Entities\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Entities\\User.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Entities\\Entities\\User.cs",
+              "RelativeToolTip": "Mission.Entities\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:49:34.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICommonRepository.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Repositories\\IRepositories\\ICommonRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\IRepositories\\ICommonRepository.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Repositories\\IRepositories\\ICommonRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\IRepositories\\ICommonRepository.cs",
+              "ViewState": "AgIAABQAAADA//////8rwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:16:07.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MissionService.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Services\\Services\\MissionService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\Services\\MissionService.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Services\\Services\\MissionService.cs",
+              "RelativeToolTip": "Mission.Services\\Services\\MissionService.cs",
+              "ViewState": "AgIAAD8AAAComZmZmZkdwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:19:28.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICommonService.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Services\\IServices\\ICommonService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\IServices\\ICommonService.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Services\\IServices\\ICommonService.cs",
+              "RelativeToolTip": "Mission.Services\\IServices\\ICommonService.cs",
+              "ViewState": "AgIAABIAAAAANDMzM7MtwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T04:14:47.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MissionRepository.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Repositories\\Repositories\\MissionRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Repositories\\MissionRepository.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Repositories\\Repositories\\MissionRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\Repositories\\MissionRepository.cs",
+              "ViewState": "AgIAAIgAAAAAOzMzMzMDwMsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:13:43.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MissionSkill.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Entities\\Entities\\MissionSkill.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Entities\\MissionSkill.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Entities\\Entities\\MissionSkill.cs",
+              "RelativeToolTip": "Mission.Entities\\Entities\\MissionSkill.cs",
+              "ViewState": "AgIAABMAAACgzMzMzMw6wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T09:51:57.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MissionApplication.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Entities\\Entities\\MissionApplication.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Entities\\MissionApplication.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Entities\\Entities\\MissionApplication.cs",
+              "RelativeToolTip": "Mission.Entities\\Entities\\MissionApplication.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T06:18:25.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Mission\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Mission\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T09:27:23.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MissionController.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission\\Controllers\\MissionController.cs",
+              "RelativeDocumentMoniker": "Mission\\Controllers\\MissionController.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission\\Controllers\\MissionController.cs",
+              "RelativeToolTip": "Mission\\Controllers\\MissionController.cs",
+              "ViewState": "AgIAAE4AAACAMTMzMzMLwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:23:06.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMissionRepository.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Repositories\\IRepositories\\IMissionRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\IRepositories\\IMissionRepository.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Repositories\\IRepositories\\IMissionRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\IRepositories\\IMissionRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAD4vxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:14:01.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Mission\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Mission\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:23:09.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMissionService.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Services\\IServices\\IMissionService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\IServices\\IMissionService.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Services\\IServices\\IMissionService.cs",
+              "RelativeToolTip": "Mission.Services\\IServices\\IMissionService.cs",
+              "ViewState": "AgIAAAgAAADAMjMzMzM/wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:19:45.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminUserService.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Services\\Services\\AdminUserService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\Services\\AdminUserService.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Services\\Services\\AdminUserService.cs",
+              "RelativeToolTip": "Mission.Services\\Services\\AdminUserService.cs",
+              "ViewState": "AgIAAAMAAABAMzMzMzMLwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:22:06.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Entities\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Entities\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Mission.Entities\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T02:56:39.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserSkill.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Entities\\Entities\\UserSkill.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Entities\\UserSkill.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Entities\\Entities\\UserSkill.cs",
+              "RelativeToolTip": "Mission.Entities\\Entities\\UserSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T04:31:18.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Missions.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Entities\\Entities\\Missions.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Entities\\Missions.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Entities\\Entities\\Missions.cs",
+              "RelativeToolTip": "Mission.Entities\\Entities\\Missions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:17:08.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission\\Program.cs",
+              "RelativeDocumentMoniker": "Mission\\Program.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission\\Program.cs",
+              "RelativeToolTip": "Mission\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAQAAAIAZwGAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:25:12.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MissionDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Entities\\Migrations\\MissionDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Migrations\\MissionDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Entities\\Migrations\\MissionDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Mission.Entities\\Migrations\\MissionDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAKIBAAAAAAAAAAAkwKcBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:27:11.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminUserRepository.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Repositories\\Repositories\\AdminUserRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Repositories\\AdminUserRepository.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Repositories\\Repositories\\AdminUserRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\Repositories\\AdminUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:03:37.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Services\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\Services\\LoginService.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Services\\Services\\LoginService.cs",
+              "RelativeToolTip": "Mission.Services\\Services\\LoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:10:43.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission\\appsettings.json",
+              "RelativeDocumentMoniker": "Mission\\appsettings.json",
+              "ToolTip": "D:\\back\\Mission\\Mission\\appsettings.json",
+              "RelativeToolTip": "Mission\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T03:04:00.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Services\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\Services\\UserService.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Services\\Services\\UserService.cs",
+              "RelativeToolTip": "Mission.Services\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:17:20.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MissionThemeViewModel.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Entities\\Models\\MissionThemeViewModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\MissionThemeViewModel.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Entities\\Models\\MissionThemeViewModel.cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\MissionThemeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:29:38.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MissionRequestViewModel.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Entities\\Models\\MissionRequestViewModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\MissionRequestViewModel.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Entities\\Models\\MissionRequestViewModel.cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\MissionRequestViewModel.cs",
+              "ViewState": "AgIAAAsAAACgMjMzMzMhwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:14:49.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAdminUserRepository.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Repositories\\IRepositories\\IAdminUserRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\IRepositories\\IAdminUserRepository.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Repositories\\IRepositories\\IAdminUserRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\IRepositories\\IAdminUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:16:20.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MissionSkillResponseModel.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Entities\\Models\\MissionSkillResponseModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\MissionSkillResponseModel.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Entities\\Models\\MissionSkillResponseModel.cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\MissionSkillResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:16:37.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginUserResponseModel.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Entities\\Models\\LoginUserResponseModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\LoginUserResponseModel.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Entities\\Models\\LoginUserResponseModel.cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\LoginUserResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:16:32.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MissionSkillService.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Services\\Services\\MissionSkillService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\Services\\MissionSkillService.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Services\\Services\\MissionSkillService.cs",
+              "RelativeToolTip": "Mission.Services\\Services\\MissionSkillService.cs",
+              "ViewState": "AgIAABEAAACAZWZmZmYGwAcAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:50:30.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginUserRequestModel.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Entities\\Models\\LoginUserRequestModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\LoginUserRequestModel.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Entities\\Models\\LoginUserRequestModel.cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\LoginUserRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:16:27.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddMissionSkillRequestModel.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Entities\\Models\\AddMissionSkillRequestModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\AddMissionSkillRequestModel.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Entities\\Models\\AddMissionSkillRequestModel.cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\AddMissionSkillRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:55:50.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Repositories\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Repositories\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:55:01.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MissionSkillController.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission\\Controllers\\MissionSkillController.cs",
+              "RelativeDocumentMoniker": "Mission\\Controllers\\MissionSkillController.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission\\Controllers\\MissionSkillController.cs",
+              "RelativeToolTip": "Mission\\Controllers\\MissionSkillController.cs",
+              "ViewState": "AgIAAEAAAAAAXmZmZmYSwFYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:48:04.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IMissionSkillRepository.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Repositories\\IRepositories\\IMissionSkillRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\IRepositories\\IMissionSkillRepository.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Repositories\\IRepositories\\IMissionSkillRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\IRepositories\\IMissionSkillRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:43:12.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MissionSkillRepository.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Repositories\\Repositories\\MissionSkillRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Repositories\\MissionSkillRepository.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Repositories\\Repositories\\MissionSkillRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\Repositories\\MissionSkillRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:20:05.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IMissionSkillService.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Services\\IServices\\IMissionSkillService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\IServices\\IMissionSkillService.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Services\\IServices\\IMissionSkillService.cs",
+              "RelativeToolTip": "Mission.Services\\IServices\\IMissionSkillService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:51:12.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Mission.Services.csproj",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Services\\Mission.Services.csproj",
+              "RelativeDocumentMoniker": "Mission.Services\\Mission.Services.csproj",
+              "ToolTip": "D:\\back\\Mission\\Mission.Services\\Mission.Services.csproj",
+              "RelativeToolTip": "Mission.Services\\Mission.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T12:37:06.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Mission.Repositories.csproj",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Repositories\\Mission.Repositories.csproj",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Mission.Repositories.csproj",
+              "ToolTip": "D:\\back\\Mission\\Mission.Repositories\\Mission.Repositories.csproj",
+              "RelativeToolTip": "Mission.Repositories\\Mission.Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T12:37:00.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Mission.Entities.csproj",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Entities\\Mission.Entities.csproj",
+              "RelativeDocumentMoniker": "Mission.Entities\\Mission.Entities.csproj",
+              "ToolTip": "D:\\back\\Mission\\Mission.Entities\\Mission.Entities.csproj",
+              "RelativeToolTip": "Mission.Entities\\Mission.Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T10:51:32.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Mission.csproj",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission\\Mission.csproj",
+              "RelativeDocumentMoniker": "Mission\\Mission.csproj",
+              "ToolTip": "D:\\back\\Mission\\Mission\\Mission.csproj",
+              "RelativeToolTip": "Mission\\Mission.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T10:49:21.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Mission\\appsettings.Development.json",
+              "ToolTip": "D:\\back\\Mission\\Mission\\appsettings.Development.json",
+              "RelativeToolTip": "Mission\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T06:17:24.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Entities\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Entities\\Country.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Entities\\Entities\\Country.cs",
+              "RelativeToolTip": "Mission.Entities\\Entities\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:06:02.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MissionApplicationResponseModel.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Entities\\Models\\MissionApplicationResponseModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\MissionApplicationResponseModel.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Entities\\Models\\MissionApplicationResponseModel.cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\MissionApplicationResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T06:35:19.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "City.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Entities\\Entities\\City.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Entities\\City.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Entities\\Entities\\City.cs",
+              "RelativeToolTip": "Mission.Entities\\Entities\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:06:01.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserRequestModel.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Entities\\Models\\UserRequestModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\UserRequestModel.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Entities\\Models\\UserRequestModel.cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\UserRequestModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:09:23.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ApplyMissionRequestModel.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Entities\\Models\\ApplyMissionRequestModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\ApplyMissionRequestModel.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Entities\\Models\\ApplyMissionRequestModel.cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\ApplyMissionRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T06:13:37.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Mission\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\back\\Mission\\Mission\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Mission\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T10:42:28.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAArwFkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:16:30.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UploadFile.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Repositories\\Helpers\\UploadFile.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Helpers\\UploadFile.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Repositories\\Helpers\\UploadFile.cs",
+              "RelativeToolTip": "Mission.Repositories\\Helpers\\UploadFile.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:25:22.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ILoginRepository.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Repositories\\IRepositories\\ILoginRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\IRepositories\\ILoginRepository.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Repositories\\IRepositories\\ILoginRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\IRepositories\\ILoginRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:11:20.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Services\\IServices\\ILoginService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\IServices\\ILoginService.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Services\\IServices\\ILoginService.cs",
+              "RelativeToolTip": "Mission.Services\\IServices\\ILoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:10:26.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ClientMissionController.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission\\Controllers\\ClientMissionController.cs",
+              "RelativeDocumentMoniker": "Mission\\Controllers\\ClientMissionController.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission\\Controllers\\ClientMissionController.cs",
+              "RelativeToolTip": "Mission\\Controllers\\ClientMissionController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:14:41.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UserResponseModel.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Entities\\Models\\UserResponseModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\UserResponseModel.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Entities\\Models\\UserResponseModel.cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\UserResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:32:02.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20250610062549_createnewMissionApplicationEntity.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Entities\\Migrations\\20250610062549_createnewMissionApplicationEntity.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Migrations\\20250610062549_createnewMissionApplicationEntity.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Entities\\Migrations\\20250610062549_createnewMissionApplicationEntity.cs",
+              "RelativeToolTip": "Mission.Entities\\Migrations\\20250610062549_createnewMissionApplicationEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAACBjwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T06:31:38.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "MissionDetailResponseModel.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission.Entities\\Models\\MissionDetailResponseModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\MissionDetailResponseModel.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission.Entities\\Models\\MissionDetailResponseModel.cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\MissionDetailResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:06:39.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "MissionThemeController.cs",
+              "DocumentMoniker": "D:\\back\\Mission\\Mission\\Controllers\\MissionThemeController.cs",
+              "RelativeDocumentMoniker": "Mission\\Controllers\\MissionThemeController.cs",
+              "ToolTip": "D:\\back\\Mission\\Mission\\Controllers\\MissionThemeController.cs",
+              "RelativeToolTip": "Mission\\Controllers\\MissionThemeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:48:32.341Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
